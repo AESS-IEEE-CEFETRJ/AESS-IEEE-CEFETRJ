@@ -1,4 +1,4 @@
-# 🌍 AESS IEEE CEFET/RJ
+# AESS IEEE CEFET/RJ
 
 Bem-vindo ao repositório oficial da **Aerospace and Electronic Systems Society (AESS)** no **CEFET/RJ**.  
 
