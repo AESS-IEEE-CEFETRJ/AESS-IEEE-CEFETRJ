@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/AESS-IEEE-CEFETRJ/AESS-IEEE-CEFETRJ/blob/main/Fundo%20degrad%C3%AA%20-%20White.png" alt="AESS IEEE CEFET/RJ" width="200"/>
-</p>
-
 # 🌍 AESS IEEE CEFET/RJ
 
 Bem-vindo ao repositório oficial da **Aerospace and Electronic Systems Society (AESS)** no **CEFET/RJ**.  
