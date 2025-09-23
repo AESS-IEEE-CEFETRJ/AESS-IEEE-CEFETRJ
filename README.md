@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AESS-IEEE-CEFETRJ/AESS-IEEE-CEFETRJ/blob/main/Fundo%20degrad%C3%AA%20-%20White.png" alt="AESS IEEE CEFET/RJ" width="200"/>
+  <img src="https://github.com/AESS-IEEE-CEFETRJ/AESS-IEEE-CEFETRJ/blob/main/Fundo%20degrad%C3%AA%20-%20White.png" alt="AESS IEEE CEFET/RJ" width="200" style="border-radius:50px;"/>
 </p>
 
 # 🌍 AESS IEEE CEFET/RJ
