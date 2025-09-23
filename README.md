@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AESS-IEEE-CEFETRJ/AESS-IEEE-CEFETRJ/blob/main/Fundo%20degrad%C3%AA%20-%20White.png" alt="AESS IEEE CEFET/RJ" width="200" style="border-radius:50px;"/>
+  <img src="https://github.com/AESS-IEEE-CEFETRJ/AESS-IEEE-CEFETRJ/blob/main/Fundo%20degrad%C3%AA%20-%20White.png" alt="AESS IEEE CEFET/RJ" width="200"/>
 </p>
 
 # 🌍 AESS IEEE CEFET/RJ
@@ -82,5 +82,9 @@ Acompanhe nossos canais oficiais para novidades, eventos e conteúdos:
 - 📸 Instagram da AESS IEEE CEFET/RJ: [@aessieeecefetrj](https://www.instagram.com/aessieeecefetrj/)  
 
 ---
+
+<p align="center">
+  <img src="https://github.com/AESS-IEEE-CEFETRJ/AESS-IEEE-CEFETRJ/blob/main/lob%C3%A3o%20branco.png" alt="AESS IEEE CEFET/RJ" width="200"/>
+</p>
 
 🌍 *Explorando, inovando e construindo o futuro da engenharia aeroespacial no CEFET/RJ.*
